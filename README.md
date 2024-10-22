@@ -1,5 +1,5 @@
-# IHG-
-IHG Marketing Email Click Prediction
+# IHG Marketing Email Click Prediction
+
 Overview
 This project focuses on analyzing marketing email interactions for IHG (InterContinental Hotels Group) to predict customer engagement through email clicks. The insights derived from this analysis allow IHG to better tailor their email marketing strategies, leading to more effective campaigns and improved cost-benefit analysis.
 
